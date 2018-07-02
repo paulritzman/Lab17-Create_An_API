@@ -1,0 +1,14 @@
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.deps.json
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.runtimeconfig.json
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.runtimeconfig.dev.json
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.dll
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\bin\Debug\netcoreapp2.1\ToDoApi.pdb
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.csprojAssemblyReference.cache
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.csproj.CoreCompileInputs.cache
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cache
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorAssemblyInfo.cs
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.AssemblyInfoInputs.cache
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.AssemblyInfo.cs
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.RazorTargetAssemblyInfo.cache
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.dll
+C:\Users\ritzm\Documents\codefellows\401\labs\Lab17-Create_An_API\ToDoApi\obj\Debug\netcoreapp2.1\ToDoApi.pdb
